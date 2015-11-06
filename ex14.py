@@ -15,7 +15,7 @@ print "What kind of computer do you have?"
 computer = raw_input(prompt)
 
 print """
-Alraight, so you said %r about liking me.
+Alright, so you said %r about liking me.
 You live in %r. Not sure where that is.
 and you have a %r computer. Nice.
 """ % (likes, lives, computer)
